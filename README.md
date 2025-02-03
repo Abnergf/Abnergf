@@ -8,9 +8,9 @@
 
 📚 Graduando em Análise e Desenvolvimento de Sistemas e paralelamente cursos extracurriculares
 
-💻 Atualmente estou aprimorando minhas habilidades .NET | Node.Js
+💻 Atualmente trabalhado como Back-end e aprimorando minhas habilidades .NET / C#
 
-💬 Pergunte-me sobre: JavaScript, Node.Js, C#, transição de carreira
+💬 Pergunte-me sobre: C#, .NET transição de carreira
 
 ✈ Hobbies: Viagens e jogos
 
